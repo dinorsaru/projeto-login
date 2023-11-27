@@ -19,6 +19,10 @@
         float: right;
         width: 70%;
     }
+
+    div#formulario>p{
+        font-size: 1.2em;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -39,6 +43,14 @@
     section#login > div#formulario{
         float: right;
         width: 50%;
+    }
+
+    div#formlario>h1{
+        font-size: 2em;
+    }
+
+    div#formulario>p{
+        font-size: 1.4em;
     }
     
 }
